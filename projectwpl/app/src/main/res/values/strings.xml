@@ -1,0 +1,542 @@
+<resources>
+    <string name="app_name">Cluster Six</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Praesent ultrices congue rutrum.
+        Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend
+        eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum
+        blandit, dolor diam fringilla tellus, eu euismod mauris neque
+        at neque.</string>
+    <string name="menu_switch">menu_switch</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="remember_me">Remember Me</string>
+
+
+    <string-array name="sports_titles">
+        <item>Boruto : Naruto Next Generations</item>
+        <item>AngelBeats</item>
+        <item>Dragon Ball GT</item>
+        <item>Guilty Crown</item>
+        <item>Kabaneri</item>
+        <item>Kantai Colle</item>
+        <item>Naruto Shippuden</item>
+        <item>Psycho Pass</item>
+        <item>Free !!!</item>
+        <item>Diamond No Ace ACT III</item>
+        <item>Kuroko No Basket</item>
+    </string-array>
+    <array name="sports_images">
+        <item>@drawable/boruto</item>
+        <item>@drawable/angelbeats</item>
+        <item>@drawable/dragonballl</item>
+        <item>@drawable/guiltycrown</item>
+        <item>@drawable/kabaneri</item>
+        <item>@drawable/kantai</item>
+        <item>@drawable/naruto</item>
+        <item>@drawable/psychopass</item>
+        <item>@drawable/free</item>
+        <item>@drawable/diamond</item>
+        <item>@drawable/kuroko</item>
+
+    </array>
+    <string-array name="sports_info">
+        <item>Boruto : Naruto Next Generations</item>
+        <item>AngelBeats</item>
+        <item>Dragon Ball GT</item>
+        <item>Guilty Crown</item>
+        <item>Kabaneri</item>
+        <item>Kantai Colle</item>
+        <item>Naruto Shippuden</item>
+        <item>Psycho Pass</item>
+        <item>Free !!!</item>
+        <item>Diamond No Ace ACT III</item>
+        <item>Kuroko No Basket</item>
+    </string-array>
+
+    <string-array name="sports_titles2">
+        <item>Boruto : Naruto Next Generations</item>
+        <item>AngelBeats</item>
+        <item>Dragon Ball GT</item>
+        <item>Guilty Crown</item>
+        <item>Kabaneri</item>
+        <item>Kantai Colle</item>
+        <item>Naruto Shippuden</item>
+        <item>Psycho Pass</item>
+        <item>Free !!!</item>
+        <item>Diamond No Ace ACT III</item>
+        <item>Kuroko No Basket</item>
+    </string-array>
+
+    <string-array name="sports_info2">
+        <item>Boruto : Naruto Next Generations!</item>
+        <item>Here is some Badminton news2!</item>
+        <item>Here is some Basketball news2!</item>
+        <item>Here is some Bowling news2!</item>
+        <item>Here is some Cycling news2!</item>
+        <item>Here is some Golf news2!</item>
+        <item>Here is some Running news2!</item>
+        <item>Here is some Soccer news2!</item>
+        <item>Here is some Swimming news2!</item>
+        <item>Here is some Table Tennis news2!</item>
+        <item>Here is some Tennis news2!</item>
+    </string-array>
+
+    <string-array name="link">
+        <item>https://www.youtube.com/watch?v=GTU9p_B54CY</item>
+        <item>https://www.youtube.com/watch?v=g3wAZ0BzWu8</item>
+        <item>https://www.youtube.com/watch?v=GTU9p_B54CY</item>
+        <item>https://www.youtube.com/watch?v=6pT9OWx_RqA</item>
+    </string-array>
+
+
+    <array name="sports_images2">
+        <item>@drawable/img_baseball2</item>
+        <item>@drawable/img_badminton2</item>
+        <item>@drawable/img_basketball2</item>
+        <item>@drawable/img_bowling2</item>
+        <item>@drawable/img_cycling2</item>
+        <item>@drawable/img_golf2</item>
+        <item>@drawable/img_running2</item>
+        <item>@drawable/img_soccer2</item>
+        <item>@drawable/img_swimming2</item>
+        <item>@drawable/img_tabletennis2</item>
+        <item>@drawable/img_tennis2</item>
+    </array>
+
+    <array name="boruto_image2">
+        <item>@drawable/boruto_image2</item>
+        <item>@drawable/boruto_image2</item>
+        <item>@drawable/boruto_image2</item>
+        <item>@drawable/boruto_image2</item>
+        <item>@drawable/boruto_image2</item>
+        <item>@drawable/boruto_image2</item>
+        <item>@drawable/boruto_image2</item>
+        <item>@drawable/boruto_image2</item>
+        <item>@drawable/boruto_image2</item>
+        <item>@drawable/boruto_image2</item>
+        <item>@drawable/boruto_image2</item>
+    </array>
+    <array name="angelbeats_image2">
+        <item>@drawable/angelbeats_image2</item>
+        <item>@drawable/angelbeats_image2</item>
+        <item>@drawable/angelbeats_image2</item>
+        <item>@drawable/angelbeats_image2</item>
+        <item>@drawable/angelbeats_image2</item>
+        <item>@drawable/angelbeats_image2</item>
+        <item>@drawable/angelbeats_image2</item>
+        <item>@drawable/angelbeats_image2</item>
+        <item>@drawable/angelbeats_image2</item>
+        <item>@drawable/angelbeats_image2</item>
+        <item>@drawable/angelbeats_image2</item>
+    </array>
+    <array name="dragonball_image2">
+        <item>@drawable/dragonball_image2</item>
+        <item>@drawable/dragonball_image2</item>
+        <item>@drawable/dragonball_image2</item>
+        <item>@drawable/dragonball_image2</item>
+        <item>@drawable/dragonball_image2</item>
+        <item>@drawable/dragonball_image2</item>
+        <item>@drawable/dragonball_image2</item>
+        <item>@drawable/dragonball_image2</item>
+        <item>@drawable/dragonball_image2</item>
+        <item>@drawable/dragonball_image2</item>
+        <item>@drawable/dragonball_image2</item>
+    </array>
+    <array name="guiltycrown_image2">
+        <item>@drawable/guiltycrown_image2</item>
+        <item>@drawable/guiltycrown_image2</item>
+        <item>@drawable/guiltycrown_image2</item>
+        <item>@drawable/guiltycrown_image2</item>
+        <item>@drawable/guiltycrown_image2</item>
+        <item>@drawable/guiltycrown_image2</item>
+        <item>@drawable/guiltycrown_image2</item>
+        <item>@drawable/guiltycrown_image2</item>
+        <item>@drawable/guiltycrown_image2</item>
+        <item>@drawable/guiltycrown_image2</item>
+        <item>@drawable/guiltycrown_image2</item>
+    </array>
+    <array name="kabaneri_image2">
+        <item>@drawable/kabaneri_image2</item>
+        <item>@drawable/kabaneri_image2</item>
+        <item>@drawable/kabaneri_image2</item>
+        <item>@drawable/kabaneri_image2</item>
+        <item>@drawable/kabaneri_image2</item>
+        <item>@drawable/kabaneri_image2</item>
+        <item>@drawable/kabaneri_image2</item>
+        <item>@drawable/kabaneri_image2</item>
+        <item>@drawable/kabaneri_image2</item>
+        <item>@drawable/kabaneri_image2</item>
+        <item>@drawable/kabaneri_image2</item>
+    </array>
+    <array name="kantai_image2">
+        <item>@drawable/kantai_image2</item>
+        <item>@drawable/kantai_image2</item>
+        <item>@drawable/kantai_image2</item>
+        <item>@drawable/kantai_image2</item>
+        <item>@drawable/kantai_image2</item>
+        <item>@drawable/kantai_image2</item>
+        <item>@drawable/kantai_image2</item>
+        <item>@drawable/kantai_image2</item>
+        <item>@drawable/kantai_image2</item>
+        <item>@drawable/kantai_image2</item>
+        <item>@drawable/kantai_image2</item>
+    </array>
+    <array name="naruto_image2">
+        <item>@drawable/naruto_image2</item>
+        <item>@drawable/naruto_image2</item>
+        <item>@drawable/naruto_image2</item>
+        <item>@drawable/naruto_image2</item>
+        <item>@drawable/naruto_image2</item>
+        <item>@drawable/naruto_image2</item>
+        <item>@drawable/naruto_image2</item>
+        <item>@drawable/naruto_image2</item>
+        <item>@drawable/naruto_image2</item>
+        <item>@drawable/naruto_image2</item>
+        <item>@drawable/naruto_image2</item>
+    </array>
+    <array name="psycho_image2">
+        <item>@drawable/psycho_image2</item>
+        <item>@drawable/psycho_image2</item>
+        <item>@drawable/psycho_image2</item>
+        <item>@drawable/psycho_image2</item>
+        <item>@drawable/psycho_image2</item>
+        <item>@drawable/psycho_image2</item>
+        <item>@drawable/psycho_image2</item>
+        <item>@drawable/psycho_image2</item>
+        <item>@drawable/psycho_image2</item>
+        <item>@drawable/psycho_image2</item>
+        <item>@drawable/psycho_image2</item>
+    </array>
+    <array name="free_image2">
+        <item>@drawable/free_image2</item>
+        <item>@drawable/free_image2</item>
+        <item>@drawable/free_image2</item>
+        <item>@drawable/free_image2</item>
+        <item>@drawable/free_image2</item>
+        <item>@drawable/free_image2</item>
+        <item>@drawable/free_image2</item>
+        <item>@drawable/free_image2</item>
+        <item>@drawable/free_image2</item>
+        <item>@drawable/free_image2</item>
+        <item>@drawable/free_image2</item>
+    </array>
+    <array name="diamond_image2">
+        <item>@drawable/diamond_image2</item>
+        <item>@drawable/diamond_image2</item>
+        <item>@drawable/diamond_image2</item>
+        <item>@drawable/diamond_image2</item>
+        <item>@drawable/diamond_image2</item>
+        <item>@drawable/diamond_image2</item>
+        <item>@drawable/diamond_image2</item>
+        <item>@drawable/diamond_image2</item>
+        <item>@drawable/diamond_image2</item>
+        <item>@drawable/diamond_image2</item>
+        <item>@drawable/diamond_image2</item>
+    </array>
+    <array name="kuroko_image2">
+        <item>@drawable/kuroko_image2</item>
+        <item>@drawable/kuroko_image2</item>
+        <item>@drawable/kuroko_image2</item>
+        <item>@drawable/kuroko_image2</item>
+        <item>@drawable/kuroko_image2</item>
+        <item>@drawable/kuroko_image2</item>
+        <item>@drawable/kuroko_image2</item>
+        <item>@drawable/kuroko_image2</item>
+        <item>@drawable/kuroko_image2</item>
+        <item>@drawable/kuroko_image2</item>
+        <item>@drawable/kuroko_image2</item>
+    </array>
+
+    <string-array name="boruto_titles">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="angelbeats_titles">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="dragonball_titles">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="guiltycrown_titles">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="kabaneri_titles">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="kantai_titles">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="naruto_titles">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="psycho_titles">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="free_titles">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="diamond_titles">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="kuroko_titles">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>]
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+
+    <string-array name="boruto_info2">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="angelbeat_info2">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="dragonball_info2">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="guiltycrown_info2">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="kabaneri_info2">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="kantai_info2">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="naruto_info2">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="psycho_info2">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="free_info2">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="diamond_info2">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+    <string-array name="kuroko_info2">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+    </string-array>
+
+
+</resources>
